@@ -3,7 +3,7 @@ import React from 'react';
 import { Router, Route, browserHistory } from 'react-router';
 
 import Signup from '../ui/Signup';
-import Dashboard from '../ui/Link';
+import Dashboard from '../ui/Dashboard';
 import NotFound from '../ui/NotFound';
 import Login from '../ui/Login';
 
